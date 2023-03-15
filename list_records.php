@@ -30,4 +30,6 @@ foreach ($records as $record)
 		echo "\n";
 
 	}
+
+	echo "something changed";
 ;
