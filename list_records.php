@@ -31,5 +31,5 @@ foreach ($records as $record)
 
 	}
 
-	echo "something changed";
+	echo "something changed, second time";
 ;
