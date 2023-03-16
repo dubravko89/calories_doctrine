@@ -32,6 +32,6 @@ foreach ($records as $record)
 	}
 
 /*
-version3 code
+version4 code from bogus
 */
 ;
